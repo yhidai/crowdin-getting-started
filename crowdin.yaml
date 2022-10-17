@@ -1,0 +1,14 @@
+project_identifier: yhidai-crowdin-getting-started
+base_path: /translations
+preserve_hierarchy: false
+
+files:
+  - source: en-us.yaml
+    dest: /ui.yaml
+    translation: '%locale%.yaml'
+    type: yaml
+    update_option: update_as_unapproved
+    languages_mapping:
+      locale:
+        en-US: en-us
+        ja-JP: ja-jp
