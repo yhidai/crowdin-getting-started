@@ -15,3 +15,5 @@ generic:
   done: Done
   enabled: Enabled
   enabled2: Enabled
+fruits:
+  apple: Apple
