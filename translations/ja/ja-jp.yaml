@@ -18,3 +18,4 @@ generic:
 fruits:
   apple: リンゴ
   orange: Orange
+test: cluster {clusterId} is created.
