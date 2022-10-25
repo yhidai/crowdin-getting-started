@@ -17,5 +17,5 @@ generic:
   enabled2: 有効
 fruits:
   apple: リンゴ
-  orange: Orange
+  orange: オレンジ
 test: cluster {clusterId} is created.
