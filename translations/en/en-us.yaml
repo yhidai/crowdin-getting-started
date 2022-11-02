@@ -15,5 +15,6 @@ generic:
   done: Done
   enabled: Enabled
   enabled2: Enabled
-  enabled3: Enabled
-  add2: Add
+fruits:
+  apple: Apple
+  orange: Orange
